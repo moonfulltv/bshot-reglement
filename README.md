@@ -4,7 +4,7 @@
 
 Règlement officiel du Burger Shot, établi et validé par les dirigeants Mason Walker et Liora Winters. Il s'applique à l'ensemble du personnel.
 
-![Règlement Burger Shot](reglement-burger-shot.png)
+[Règlement Burger Shot](reglement-burger-shot.png)
 ou
 [Télécharger le règlement (PDF)](reglement-burger-shot.pdf)
 
